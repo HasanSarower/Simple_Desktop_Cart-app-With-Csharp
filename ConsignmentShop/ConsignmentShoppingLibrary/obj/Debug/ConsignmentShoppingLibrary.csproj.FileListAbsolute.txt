@@ -1,0 +1,6 @@
+F:\C#_self\ConsignmentShop\ConsignmentShoppingLibrary\bin\Debug\ConsignmentShoppingLibrary.dll
+F:\C#_self\ConsignmentShop\ConsignmentShoppingLibrary\bin\Debug\ConsignmentShoppingLibrary.pdb
+F:\C#_self\ConsignmentShop\ConsignmentShoppingLibrary\obj\Debug\ConsignmentShoppingLibrary.csprojAssemblyReference.cache
+F:\C#_self\ConsignmentShop\ConsignmentShoppingLibrary\obj\Debug\ConsignmentShoppingLibrary.csproj.CoreCompileInputs.cache
+F:\C#_self\ConsignmentShop\ConsignmentShoppingLibrary\obj\Debug\ConsignmentShoppingLibrary.dll
+F:\C#_self\ConsignmentShop\ConsignmentShoppingLibrary\obj\Debug\ConsignmentShoppingLibrary.pdb

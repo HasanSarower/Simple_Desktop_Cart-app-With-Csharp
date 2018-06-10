@@ -1,0 +1,13 @@
+F:\C#_self\ConsignmentShop\ConsignmentShopUI\bin\Debug\ConsignmentShopUI.exe.config
+F:\C#_self\ConsignmentShop\ConsignmentShopUI\bin\Debug\ConsignmentShopUI.exe
+F:\C#_self\ConsignmentShop\ConsignmentShopUI\bin\Debug\ConsignmentShopUI.pdb
+F:\C#_self\ConsignmentShop\ConsignmentShopUI\obj\Debug\ConsignmentShopUI.csprojAssemblyReference.cache
+F:\C#_self\ConsignmentShop\ConsignmentShopUI\obj\Debug\ConsignmentShopUI.ConsignmentShop.resources
+F:\C#_self\ConsignmentShop\ConsignmentShopUI\obj\Debug\ConsignmentShopUI.Properties.Resources.resources
+F:\C#_self\ConsignmentShop\ConsignmentShopUI\obj\Debug\ConsignmentShopUI.csproj.GenerateResource.cache
+F:\C#_self\ConsignmentShop\ConsignmentShopUI\obj\Debug\ConsignmentShopUI.csproj.CoreCompileInputs.cache
+F:\C#_self\ConsignmentShop\ConsignmentShopUI\obj\Debug\ConsignmentShopUI.exe
+F:\C#_self\ConsignmentShop\ConsignmentShopUI\obj\Debug\ConsignmentShopUI.pdb
+F:\C#_self\ConsignmentShop\ConsignmentShopUI\bin\Debug\ConsignmentShoppingLibrary.dll
+F:\C#_self\ConsignmentShop\ConsignmentShopUI\bin\Debug\ConsignmentShoppingLibrary.pdb
+F:\C#_self\ConsignmentShop\ConsignmentShopUI\obj\Debug\ConsignmentShopUI.csproj.CopyComplete
